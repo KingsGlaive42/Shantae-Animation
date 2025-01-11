@@ -29,8 +29,6 @@ class shantaeCharge {
         this.animator.drawFrame(0, ctx, this.x4, 500);
         this.animator.drawFrame(0, ctx, this.x5, 600);
         this.animator.drawFrame(0, ctx, this.x2, 100);
-        this.animator.drawFrame(0, ctx, this.x3, 100);
-        this.animator.drawFrame(0, ctx, this.x4, 100);
         this.animator.drawFrame(0, ctx, this.x1, 200);
         this.animator.drawFrame(0, ctx, this.x2, 300);
         this.animator.drawFrame(0, ctx, this.x4, 400);
